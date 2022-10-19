@@ -2,7 +2,7 @@
 API usada: https://jsonplaceholder.typicode.com/posts
 
 
-Desafío de hoy 
+Desafío de hoy: 
 
 👉 Para los que no lo hicieron aun, subir su Portfolio iniciado 💼 (con algo de Material-UI)  palabra clave: react_material
 👉 Para los que ya lo hicieron suban los avances que hicieron en su  💼 palabra clave: react_portfolio
